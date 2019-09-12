@@ -1,2 +1,4 @@
-# Linear-regression-with-1-variable
-#1 variable machine learning linear regression in python
+#Machine learning projects
+#1. Linear regression with one variable
+#2. Multivariate linear regression
+#3. Image recognition MNIST (Camp project)
